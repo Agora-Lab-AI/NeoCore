@@ -1,5 +1,3 @@
-swarms
-loguru
-python-dotenv
-pyyaml
-swarm-models
+torch>=2.0.0
+loguru>=0.7.0
+psutil>=5.9.0
