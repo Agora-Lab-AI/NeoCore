@@ -19,7 +19,6 @@ NeoCore is a state-of-the-art, CPU-optimized transformer architecture designed f
 ### Key Features
 
 - 🔋 **CPU-Native Design**: Optimized from the ground up for modern CPU architectures
-- 🚄 **High-Performance**: Achieves up to 12.7K tokens/second on standard CPU hardware
 - 🎯 **Memory Efficient**: Advanced caching and chunking strategies for optimal memory usage
 - 🛠 **Enterprise Ready**: Production-grade implementation with comprehensive logging and monitoring
 - 🔄 **Modern Architecture**: Incorporates Multi-Query Attention, RMSNorm, and Rotary Embeddings
